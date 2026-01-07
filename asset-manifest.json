@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sant-vicenc-tourism/static/css/main.0d48d6cd.css",
+    "main.js": "/sant-vicenc-tourism/static/js/main.fdb231d0.js",
+    "static/media/frontal-view.jpg": "/sant-vicenc-tourism/static/media/frontal-view.11d1e84f8f1d2dca477e.jpg",
+    "static/media/village-view.jpg": "/sant-vicenc-tourism/static/media/village-view.a5bca5b3542d0fc52f4b.jpg",
+    "static/media/village-morning.mp3": "/sant-vicenc-tourism/static/media/village-morning.9bb5d7949a3a7e87b662.mp3",
+    "static/media/tower-can-valls.jpg": "/sant-vicenc-tourism/static/media/tower-can-valls.532dcd30ccd0cb365e57.jpg",
+    "static/media/beach-view.jpg": "/sant-vicenc-tourism/static/media/beach-view.09afc6c5810c1f3913ed.jpg",
+    "static/media/mountain-view.jpg": "/sant-vicenc-tourism/static/media/mountain-view.6142e21d039a2009bc24.jpg",
+    "static/media/mediterranean-waves.mp3": "/sant-vicenc-tourism/static/media/mediterranean-waves.736d5e80140fa5cb3a0d.mp3",
+    "static/media/beach-vibes.mp3": "/sant-vicenc-tourism/static/media/beach-vibes.50342f1da68778942138.mp3",
+    "static/media/mountain-walk.mp3": "/sant-vicenc-tourism/static/media/mountain-walk.bd32fdfaca4b1bb996fc.mp3",
+    "static/media/general-view.jpg": "/sant-vicenc-tourism/static/media/general-view.edd8cf006ad8f6696ed3.jpg",
+    "static/media/coat-of-arms.svg": "/sant-vicenc-tourism/static/media/coat-of-arms.51982f7cf1cb79564e519523ace44ab6.svg",
+    "index.html": "/sant-vicenc-tourism/index.html",
+    "main.0d48d6cd.css.map": "/sant-vicenc-tourism/static/css/main.0d48d6cd.css.map",
+    "main.fdb231d0.js.map": "/sant-vicenc-tourism/static/js/main.fdb231d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d48d6cd.css",
+    "static/js/main.fdb231d0.js"
+  ]
+}

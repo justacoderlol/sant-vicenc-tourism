@@ -5,8 +5,7 @@ This project is a modern web application designed to promote tourism in Sant Vic
 ![Sant Vicenç Tourism](sant-vicenc-tourism.jpeg)
 
 ## Live Demo
-You can view the live website here:
-**[Website Link](https://antonposamun10.site/sant-vicenc-tourism/)**
+You can view the live website here: https://antonposamun10.site/sant-vicenc-tourism/
 
 ## Detailed Documentation
 Complete technical information, development process, and implemented features are detailed in the **report.pdf** file included in the project submission.

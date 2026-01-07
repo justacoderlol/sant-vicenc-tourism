@@ -1,0 +1,98 @@
+/* Basic Settings */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html, body, #root {
+  width: 100%;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: var(--text-dark);
+  background-color: var(--cream);
+
+  /* From react example */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.App {
+  min-height: 100vh;
+}
+
+/* Variables */
+
+:root {
+  --gold: #C5A059;
+  --gold-light: #E5C585;
+  --gold-dark: #9A7B3E;
+  
+  --green: #2C5F2D;
+  --green-dark: #1A3C1B;
+  
+  --red: #A63434;
+  
+  --white: #ffffff;
+  --cream: #F9F7F2;
+  --text-dark: #1A1A1A;
+  --text-light: #5A5A5A;
+  --green-pale: #F2F8F4;
+  
+  /* Overlays */
+  --overlay-light: rgba(255, 255, 255, 0.8);
+  --overlay-light-low: rgba(255, 255, 255, 0.2);
+  --overlay-light-minimal: rgba(255, 255, 255, 0.1);
+  
+  --overlay-dark: rgba(0, 0, 0, 0.5);
+  --overlay-heavy: rgba(0, 0, 0, 0.8);
+
+  /* Transparent Tints */
+  --green-tint: rgba(46, 139, 87, 0.05);
+
+  /* Shadows */
+  --shadow-color: rgba(0, 0, 0, 0.2);
+  --shadow-color-dark: rgba(0, 0, 0, 0.3);
+  --shadow-color-light: rgba(0, 0, 0, 0.1);
+
+  --shadow: 0 2px 4px var(--shadow-color);
+  --shadow-hover: 0 4px 8px var(--shadow-color-dark);
+  --shadow-subtle: 0 1px 3px var(--shadow-color-light);
+  --shadow-large: 0 20px 50px var(--shadow-color);
+  
+  --border-radius: 4px;
+}
+
+/* Layout and Base */
+
+section {
+  width: 100%;
+  padding: 80px 20px;
+}
+
+section h2 {
+  font-size: 2.2rem;
+  color: var(--text-dark);
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* Responsive Styles */
+
+@media (max-width: 768px) {
+  section {
+    padding: 60px 15px;
+  }
+  
+  section h2 {
+    font-size: 1.8rem;
+  }
+}

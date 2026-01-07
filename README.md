@@ -6,7 +6,7 @@ This project is a modern web application designed to promote tourism in Sant Vic
 
 ## Live Demo
 You can view the live website here:
-**[GitHub Pages](https://justacoderlol.github.io/sant-vicenc-tourism/)**
+**[Website Link](https://antonposamun10.site/sant-vicenc-tourism/)**
 
 ## Detailed Documentation
 Complete technical information, development process, and implemented features are detailed in the **report.pdf** file included in the project submission.
